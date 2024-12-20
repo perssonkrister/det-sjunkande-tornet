@@ -1,0 +1,44 @@
+{
+   "id":"det-sjunkande-tornet",
+   "title":"Det krypande mörkret",
+   "description":"Äventyrsmodul - Endast för personligt bruk",
+   "url":"https://github.com/perssonkrister/det-sjunkande-tornet",
+   "manifest":"https://raw.githubusercontent.com/perssonkrister/det-sjunkande-tornet/master/module.json",
+   "download":"https://github.com/perssonkrister/det-sjunkande-tornet/archive/master.zip",
+   "authors":[
+      {
+         "name":"Krister Persson (Rangertheman)",
+         "discord":"Rangertheman",
+         "flags":{
+            
+         }
+      }
+   ],
+   "version":"0.0.1",
+   "compatibility":{
+      "minimum":"12",
+      "verified":"12"
+   },
+   "relationships":{
+      "systems":[
+         {
+            "id":"dragonbane",
+            "type":"system",
+            "compatibility":{
+               "minimum":"1.9.2",
+               "verified":"1.9.3"
+            }
+         }
+      ]
+   },
+   "packs":[
+      {
+         "label":"Det sjunkande tornet",
+         "name":"det-sjunkande-tornet",
+         "path":"./packs/det-sjunkande-tornet.db",
+         "type":"Adventure",
+         "system":"dragonbane",
+         "banner":"./modules/det-sjunkande-tornet/img/Cover_image.jpg"
+      }
+   ]
+}
