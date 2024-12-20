@@ -1,6 +1,6 @@
 {
    "id":"det-sjunkande-tornet",
-   "title":"Det krypande mörkret",
+   "title":"Det sjunkande tornet",
    "description":"Äventyrsmodul - Endast för personligt bruk",
    "url":"https://github.com/perssonkrister/det-sjunkande-tornet",
    "manifest":"https://raw.githubusercontent.com/perssonkrister/det-sjunkande-tornet/master/module.json",
@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.4",
+   "version":"0.0.5",
    "compatibility":{
       "minimum":"12",
       "verified":"12"
