@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.1.0",
+   "version":"0.1.1",
    "compatibility":{
       "minimum":"12",
       "verified":"12"
@@ -38,7 +38,7 @@
          "path":"./packs/det-sjunkande-tornet.db",
          "type":"Adventure",
          "system":"dragonbane",
-         "banner":"./modules/det-sjunkande-tornet/img/Cover_image.jpg"
+         "banner":"./modules/det-sjunkande-tornet/img/Cover_image.png"
       }
    ]
 }
